@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class lab3z1 : MonoBehaviour
+public class lab3z3 : MonoBehaviour
 {
     public float speed = 2.0f;
     private Vector3 startPosition;
